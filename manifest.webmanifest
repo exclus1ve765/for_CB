@@ -1,13 +1,13 @@
 {
-    "background_color": "purple",
-    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "background_color": "white",
+    "description": "Мы искренне делимся осознанным подходом к питанию, делая еду нашим союзником. Мы делаем все, чтобы, как можно больше женщин, мужчин, детей, бабушек и дедушек, жили полноценной и здоровой жизнью! Здоровое питание  -  основа вашего благополучия. Здоровый человек  -  счастливый человек!",
     "display": "fullscreen",
     "icons": [{
         "src": "/icon.png",
         "sizes": "192x192",
         "type": "image/png"
     }],
-    "name": "Awesome fox pictures",
-    "short_name": "Foxes",
+    "name": "Онлайн-школа нутрициологии PRO-ЗДОРОВЬЕ",
+    "short_name": "PRO-ЗДОРОВЬЕ",
     "start_url": "/index.html"
 }
